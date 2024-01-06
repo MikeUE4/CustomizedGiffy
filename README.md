@@ -3,7 +3,7 @@
 Get your free API KEy from giify developers by creating an App.
 get the key first for Testing and on release of your game/app get the release key.
 
-
+PRODUCTion review send
 GIFFY account
 
 https://developers.giphy.com/
